@@ -9,11 +9,11 @@ I ask Google Gemini the following question with deep reserch feature:
 
 These are screen captures I get during this process:
 
-![Question](.\img\Question.png)
+![Question](./img/Question.png)
 
-![Process](.\img\Process.png)
+![Process](./img/Process.png)
 
-![Result](.\img\Result.png)
+![Result](./img/Result.png)
 
 Then I get the following result:
 
